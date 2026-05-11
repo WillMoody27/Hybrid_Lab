@@ -4,7 +4,7 @@
 
 Enterprise-style hybrid identity lab built to simulate a real-world on-prem + cloud identity environment using:
 
-- Windows Server 2022
+- Windows Server 2022 
 - Active Directory Domain Services (AD DS)
 - Microsoft Entra Connect Sync
 - Microsoft Entra ID (Azure AD)
