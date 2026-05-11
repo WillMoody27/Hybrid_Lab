@@ -1,5 +1,7 @@
 # Hybrid Active Directory + Microsoft Entra ID Lab
 
+![lab-setup](images/lab-setup.png)
+
 Enterprise-style hybrid identity lab built to simulate a real-world on-prem + cloud identity environment using:
 
 - Windows Server 2022
